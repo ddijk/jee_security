@@ -1,0 +1,7 @@
+# WebLogic
+curl http://localhost:7001/beveiliging/resources/car
+curl -u dick:admin1234 http://localhost:7001/beveiliging/resources/car
+
+# Glassfis
+curl http://localhost:8080/security/resources/car
+curl -u dick:admin1234 http://localhost:8080/security/resources/car
